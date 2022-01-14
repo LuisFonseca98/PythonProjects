@@ -1,0 +1,53 @@
+﻿
+MCG 2016/2017
+
+Implementação de referência de um Ray Tracer
+
+
+SÓ PARA EFEITOS DE TESTES 
+
+IMPORTANTE: esta implementação de referência SÓ funciona com a versão
+Pyhton 3.5.2
+
+0. 
+faça unzip do ficheiro
+
+ray_tracer_referencia_python_3.5.2.zip
+
+
+na diretoria/pasta onde está o codigo fonto (os ficheiros .py) das 
+suas classes de MCG. 
+Se já fez unzip noutra directoria/pasta repita-o
+ na diretoria/pasta certa.
+
+
+1. execute, com o intrepretador Python3, o ficheiro
+
+referencia.py
+
+2.
+visualize a imagem no ficheiro
+
+ray_tracer_referencia.ppm
+
+3. 
+no ficheiro
+
+referencia.py
+
+substitua xxxxx, no import da classe que quer testar, pelo seu número de aluno
+
+4. 
+repita os pontos 1. e 2.
+
+
+Se ocorrer algum erro ou se a imagem resultante não for igual à do ponto
+2 a implementação da sua classe não está correta.
+
+
+5. Se o seu computador for suficientemente potente aumente a resolução
+da câmara (no ficheiro referencia.py) para gerar imagens de melhor
+qualidade.
+
+
+6. Repita todo este processo para cada uma das classes que quer testar.
