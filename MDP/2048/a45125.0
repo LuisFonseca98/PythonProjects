@@ -1,0 +1,6 @@
+numero=a45125
+amigos=a43789,a45121,a45096
+grelha_inicial=[[0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 2], [0, 2, 0, 0]]
+jogadas=
+pontos=0
+semente=593
