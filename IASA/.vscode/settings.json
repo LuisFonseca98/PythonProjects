@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": [
+        "IASA_JOGO"
+    ],
+    "python.analysis.extraPaths": [
+        "./IASA_AGENTE/src/lib"
+    ]
+}
